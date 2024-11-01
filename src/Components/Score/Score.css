@@ -1,0 +1,13 @@
+.question-points-wrapper
+{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.range-input
+{
+
+    width: 100%;
+}

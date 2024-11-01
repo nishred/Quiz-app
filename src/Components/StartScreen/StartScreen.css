@@ -1,0 +1,25 @@
+.start-container
+{
+
+   text-align: center;
+
+}
+
+
+.start-container button
+{
+   padding: 12px 48px;
+
+   background-color: purple;
+   font-weight: 700;
+
+   font-size: 2rem;
+
+   color: wheat;
+
+   border-radius: 8px;
+
+   border: none;
+
+   cursor: pointer;
+}

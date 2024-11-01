@@ -1,0 +1,23 @@
+.score-wrapper
+{
+
+   font-size: 3rem;
+     
+}
+
+.restart-btn
+{
+   padding: 10px 32px;
+   background-color: green;
+   color: wheat;
+   border: none;
+   border-radius: 5px;
+
+   display: block;
+
+   margin: 10px auto;
+
+   font-weight: 600;
+   cursor: pointer;
+
+}

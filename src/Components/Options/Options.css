@@ -1,0 +1,40 @@
+.options-wrapper
+{
+
+display: flex;
+flex-direction: column;
+gap: 16px;
+padding: 16px;
+}
+
+
+.option-btn
+{
+   padding: 10px 32px;
+   background-color: black;
+
+   border: 1px solid wheat;
+
+   border-radius: 8px;
+
+   font-weight: 700;
+
+   font-size: 1rem;
+   cursor : pointer;
+
+   color: wheat;
+
+}
+
+
+.correct-option
+{
+
+    background-color: green;
+}
+
+.wrong-option
+{
+  background-color: red;
+
+}
